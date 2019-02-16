@@ -1,0 +1,5 @@
+In this sample web crawler was we used a seed URL and had a list of some key words I was looking for.
+In the function that was built, I scanned the seed URL and then compared and parsed it and uploaded the data onto a txt 
+file in which the information of the page is there. Once the terms that were scanned from the page
+were compared and if there were at least 2 terms, the for loop would break which confirms the page
+confirms that there's relevance.
