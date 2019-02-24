@@ -1,19 +1,20 @@
 import urllib
 import requests
+import queue
 from bs4 import BeautifulSoup
-
 
 seedUrl = "https://en.wikipedia.org/wiki/Orange_(fruit)"
 compileURL = []
 tenWords = ['fruit','species','health','location','farming','history','nutrition','biology','food']
 
+qe = queue.Queue()
     
-def fuo(url):
+def mainCheck(url):
     testReq  = requests.get(url)
     if testReq == 404:
         return
     print(testReq)
-    abc = 0
+    counterN = 0
 
     found = False
 
@@ -33,8 +34,8 @@ def fuo(url):
         #print (x)
         for y in tenWords:
             if x == y:
-                abc +=1
-            if abc == 2:
+                counterN +=1
+            if counterN == 2:
                 found = True
                 print("2 terms have been matched")
                 f = open('DataCode.txt','w',encoding="utf8")
@@ -44,49 +45,23 @@ def fuo(url):
                 
         if found == True:
             break
-        
-fuo(seedUrl)
+  
+mainCheck(seedUrl)
+
+while(True):
+    print(str(len(compileURL)) + " links returned")
+    f = open('listurl.txt','w',encoding="utf8")
+    f.write(str(compileURL))
+    f.close
+    break
+
 
 """
-
-f = open('urlList1.txt','w',encoding="utf8")
-f.write(data)
-f.close()
-
-seedUrl = "https://en.wikipedia.org/wiki/Orange_(fruit")
-
 pageResponse = requests.get(seedUrl, timeout = 3)
 
-contents = BeautifulSoup(pageResponse.content, "html.parser")
-
-textCon = []
 for i in range (0,20):
     chunks = contents.find_all("p"[i].text)
-    textCon.append(chunks)
-"""
-"""
-seed: orange https://en.wikipedia.org/wiki/Orange_(fruit)
-citrus https://en.wikipedia.org/wiki/Citrus_%C3%97_sinensis
-
-related terms
-1. orange (fruit)
-2. species
-3. health benefits
-4. location
-5. farming
-6. history
-7. foods
-8. nutrition
-9. biology
-10. recipes
-
-"""
-"""
-aeedUrls = ['https://en.wikipedia.org/wiki/Orange_(fruit)','https://en.wikipedia.org/wiki/Citrus_%C3%97_sinensis']
-
-queue
-
-soup.find_all("a")
+    textCon.append(chunks
 
 for url in seedUrls:
     seedUrls.append(url)
@@ -116,8 +91,4 @@ while queue is not empty:
             queue.add(outGoingUrl)
             visitedUrlList.add(outGoingUrl)
 save(savedUrlList)
-
-def processQueue();
  """
-
-
