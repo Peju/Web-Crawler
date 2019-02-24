@@ -1,0 +1,166 @@
+<div class="mw-parser-output"><div class="homonymie"><a href="/wiki/Aide:Homonymie" title="Aide:Homonymie"><img alt="Page d'aide sur l'homonymie" class="noviewer" data-file-height="200" data-file-width="272" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-Disambig_colour.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/30px-Disambig_colour.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/40px-Disambig_colour.svg.png 2x" width="20"/></a> Pour les articles homonymes, voir <a class="mw-disambig" href="/wiki/Limettier" title="Limettier">limettier</a> et <a class="mw-redirect mw-disambig" href="/wiki/Limettier_doux" title="Limettier doux">limettier doux</a>.</div>
+<div class="infobox_v3 large taxobox_v3 plante bordered" style="width:20em">
+<div class="entete" style="">
+<div><i>Citrus limettioides</i>
+</div>
+</div><div class="images"><a class="image" href="/wiki/Fichier:Citrus_limettioides_-_Palestine_sweet_lime.jpg" title="Photographie de Citrus × limettoides au jardin botanique du Missouri, États-Unis"><img alt="Description de cette image, également commentée ci-après" data-file-height="2736" data-file-width="3648" decoding="async" height="218" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Citrus_limettioides_-_Palestine_sweet_lime.jpg/290px-Citrus_limettioides_-_Palestine_sweet_lime.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Citrus_limettioides_-_Palestine_sweet_lime.jpg/435px-Citrus_limettioides_-_Palestine_sweet_lime.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Citrus_limettioides_-_Palestine_sweet_lime.jpg/580px-Citrus_limettioides_-_Palestine_sweet_lime.jpg 2x" width="290"/></a>
+</div>
+<div class="legend">Photographie de <i>Citrus × limettoides</i> au jardin botanique du Missouri, États-Unis</div><table class="taxobox_classification"><caption style=""><a href="/wiki/Classification_de_Cronquist" title="Classification de Cronquist">Classification de Cronquist (1981)</a></caption><tbody><tr>
+<th scope="row" style="width:8em;"><a href="/wiki/R%C3%A8gne_(biologie)" title="Règne (biologie)">Règne</a></th>
+<td>
+<span class="normal"><a href="/wiki/Plante" title="Plante">Plantae</a></span></td>
+</tr>
+<tr>
+<th scope="row" style="width:8em;"><a href="/wiki/Sous-r%C3%A8gne" title="Sous-règne">Sous-règne</a></th>
+<td>
+<span class="normal"><a class="mw-redirect" href="/wiki/Tracheobionta" title="Tracheobionta">Tracheobionta</a></span></td>
+</tr>
+<tr>
+<th scope="row" style="width:8em;"><a href="/wiki/Division_(biologie)" title="Division (biologie)">Division</a></th>
+<td>
+<span class="normal"><a class="mw-redirect" href="/wiki/Magnoliophyta" title="Magnoliophyta">Magnoliophyta</a></span></td>
+</tr>
+<tr>
+<th scope="row" style="width:8em;"><a href="/wiki/Classe_(biologie)" title="Classe (biologie)">Classe</a></th>
+<td>
+<span class="normal"><a class="mw-redirect" href="/wiki/Magnoliopsida" title="Magnoliopsida">Magnoliopsida</a></span></td>
+</tr>
+<tr>
+<th scope="row" style="width:8em;"><a href="/wiki/Sous-classe_(biologie)" title="Sous-classe (biologie)">Sous-classe</a></th>
+<td>
+<span class="normal"><a href="/wiki/Rosidae" title="Rosidae">Rosidae</a></span></td>
+</tr>
+<tr>
+<th scope="row" style="width:8em;"><a href="/wiki/Ordre_(biologie)" title="Ordre (biologie)">Ordre</a></th>
+<td>
+<span class="normal"><a href="/wiki/Sapindales" title="Sapindales">Sapindales</a></span></td>
+</tr>
+<tr>
+<th scope="row" style="width:8em;"><a href="/wiki/Famille_(biologie)" title="Famille (biologie)">Famille</a></th>
+<td>
+<span class="normal"><a href="/wiki/Rutaceae" title="Rutaceae">Rutaceae</a></span></td>
+</tr>
+<tr>
+<th scope="row" style="width:8em;"><a href="/wiki/Genre_(biologie)" title="Genre (biologie)">Genre</a></th>
+<td>
+<a href="/wiki/Citrus" title="Citrus">Citrus</a></td>
+</tr>
+</tbody></table>
+<p class="bloc"><a href="/wiki/Nom_binominal" title="Nom binominal">Nom binominal</a></p><div class="center taxobox_classification"><b><span style="font-style: normal"><i>Citrus limettioides</i></span></b><br/><span class="rnormal"><small><b><a class="mw-redirect" href="/wiki/Ty%C3%B4zabur%C3%B4_Tanaka" title="Tyôzaburô Tanaka">Tanaka</a>, <a href="/wiki/1937" title="1937">1937</a></b></small></span></div>
+<p class="bloc"><a href="/wiki/Classification_APG_III" title="Classification APG III">Classification APG III (2009)</a></p>
+<table class="taxobox_classification"><caption class="hidden" style=""><a href="/wiki/Classification_APG_III" title="Classification APG III">Classification APG III (2009)</a></caption>
+<tbody><tr>
+<th scope="row" style="width:8em;"><a href="/wiki/Clade" title="Clade">Clade</a></th>
+<td>
+<span class="normal"><a class="mw-redirect" href="/wiki/Angiospermes" title="Angiospermes"><span style="font-style: normal">Angiospermes</span></a></span></td>
+</tr>
+<tr>
+<th scope="row" style="width:8em;"><a href="/wiki/Clade" title="Clade">Clade</a></th>
+<td>
+<span class="normal"><a href="/wiki/Dicotyl%C3%A9dones_vraies" title="Dicotylédones vraies"><span style="font-style: normal">Dicotylédones vraies</span></a></span></td>
+</tr>
+<tr>
+<th scope="row" style="width:8em;"><a href="/wiki/Clade" title="Clade">Clade</a></th>
+<td>
+<span class="normal"><a class="mw-redirect" href="/wiki/Noyau_des_Dicotyl%C3%A9dones_vraies" title="Noyau des Dicotylédones vraies"><span style="font-style: normal"><small>Noyau des Dicotylédones vraies</small></span></a></span></td>
+</tr>
+<tr>
+<th scope="row" style="width:8em;"><a href="/wiki/Clade" title="Clade">Clade</a></th>
+<td>
+<span class="normal"><a href="/wiki/Rosid%C3%A9es" title="Rosidées"><span style="font-style: normal">Rosidées</span></a></span></td>
+</tr>
+<tr>
+<th scope="row" style="width:8em;"><a href="/wiki/Clade" title="Clade">Clade</a></th>
+<td>
+<span class="normal"><a class="mw-redirect" href="/wiki/Malvid%C3%A9es" title="Malvidées"><span style="font-style: normal">Malvidées</span></a></span></td>
+</tr>
+<tr>
+<th scope="row" style="width:8em;"><a href="/wiki/Ordre_(biologie)" title="Ordre (biologie)">Ordre</a></th>
+<td>
+<span class="normal"><a href="/wiki/Sapindales" title="Sapindales">Sapindales</a></span></td>
+</tr>
+<tr>
+<th scope="row" style="width:8em;"><a href="/wiki/Famille_(biologie)" title="Famille (biologie)">Famille</a></th>
+<td>
+<span class="normal"><a href="/wiki/Rutaceae" title="Rutaceae">Rutaceae</a></span></td>
+</tr>
+<tr>
+<th scope="row" style="width:8em;"><a href="/wiki/Genre_(biologie)" title="Genre (biologie)">Genre</a></th>
+<td>
+<a href="/wiki/Citrus" title="Citrus">Citrus</a></td>
+</tr>
+</tbody></table></div>
+<p><i><b>Citrus limettioides</b></i> est une <a href="/wiki/Esp%C3%A8ce" title="Espèce">espèce</a> d'arbre fruitier de la famille des <i><a href="/wiki/Rutaceae" title="Rutaceae">Rutaceae</a></i>. Il est aussi appelé <b><a class="mw-redirect mw-disambig" href="/wiki/Limettier_doux" title="Limettier doux">limettier doux</a></b> ou <b>limettier doux de Palestine</b><sup class="reference" id="cite_ref-1"><a href="#cite_note-1"><span class="cite_crochet">[</span>1<span class="cite_crochet">]</span></a></sup>, et produit des <a href="/wiki/Limette" title="Limette">limette</a> ou citrons doux. Leur jus contient généralement moins de 0,1 % d'acide citrique : son goût très léger est populaire au <a href="/wiki/Moyen-Orient" title="Moyen-Orient">Moyen-Orient</a> et en <a href="/wiki/Inde" title="Inde">Inde</a>, mais moins en <a href="/wiki/Occident" title="Occident">Occident</a><sup class="reference" id="cite_ref-2"><a href="#cite_note-2"><span class="cite_crochet">[</span>2<span class="cite_crochet">]</span></a></sup>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="fr"><h2>Sommaire</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Notes_et_références"><span class="tocnumber">1</span> <span class="toctext">Notes et références</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Voir_aussi"><span class="tocnumber">2</span> <span class="toctext">Voir aussi</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Articles_connexes"><span class="tocnumber">2.1</span> <span class="toctext">Articles connexes</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Références_taxinomiques"><span class="tocnumber">2.2</span> <span class="toctext">Références taxinomiques</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<h2><span id="Notes_et_r.C3.A9f.C3.A9rences"></span><span class="mw-headline" id="Notes_et_références">Notes et références</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Citrus_limettioides&amp;veaction=edit&amp;section=1" title="Modifier la section : Notes et références">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Citrus_limettioides&amp;action=edit&amp;section=1" title="Modifier la section : Notes et références">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small decimal" style=""><div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-1">↑</a> </span><span class="reference-text">Mansfeld's Encyclopedia of Agricultural and Horticultural Crops, page 1023
+<a class="external text" href="https://books.google.fr/books?id=10IMFSavIMsC&amp;lpg=PA1023" rel="nofollow">lire en ligne</a></span>
+</li>
+<li id="cite_note-2"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-2">↑</a> </span><span class="reference-text"><a class="external text" href="http://www.innvista.com/health/foods/fruits/limes.htm" rel="nofollow">Limes</a></span>
+</li>
+</ol></div>
+</div>
+<h2><span class="mw-headline" id="Voir_aussi">Voir aussi</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Citrus_limettioides&amp;veaction=edit&amp;section=2" title="Modifier la section : Voir aussi">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Citrus_limettioides&amp;action=edit&amp;section=2" title="Modifier la section : Voir aussi">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Articles_connexes">Articles connexes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Citrus_limettioides&amp;veaction=edit&amp;section=3" title="Modifier la section : Articles connexes">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Citrus_limettioides&amp;action=edit&amp;section=3" title="Modifier la section : Articles connexes">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<style data-mw-deduplicate="TemplateStyles:r151529982">.mw-parser-output .autres-projets ul{margin:0;padding:0}.mw-parser-output .autres-projets li{list-style-type:none;list-style-image:none;margin:0.2em 0;text-indent:0;padding-left:24px;min-height:20px;text-align:left}.mw-parser-output .autres-projets .titre{text-align:center;margin:0.2em 0}.mw-parser-output .autres-projets li a{font-style:italic}</style><div class="autres-projets boite-grise boite-a-droite noprint js-interprojets">
+<p class="titre">Sur les autres projets Wikimedia :</p>
+<ul class="noarchive plainlinks">
+<li class="commons"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:Citrus?uselang=fr">Citrus limettioides</a>, sur <span class="project">Wikimedia Commons</span></li><li class="wikispecies"><a class="extiw" href="https://species.wikimedia.org/wiki/Citrus_limettioides" title="wikispecies:Citrus limettioides">Citrus limettioides</a>, <span class="nowrap">sur <span class="project">Wikispecies</span></span></li>
+</ul>
+</div>
+<ul><li><a href="/wiki/Citron" title="Citron">Citron</a> (citron jaune), le fruit du <a href="/wiki/Citronnier" title="Citronnier">citronnier</a> (<i>Citrus lemon</i>).</li>
+<li><a href="/wiki/Lime_(fruit)" title="Lime (fruit)">Lime</a> ou citron vert, le fruit des limettiers : <i><a href="/wiki/Citrus_aurantiifolia" title="Citrus aurantiifolia">Citrus aurantiifolia</a></i> et <i><a href="/wiki/Citrus_latifolia" title="Citrus latifolia">Citrus latifolia</a></i>.</li>
+<li><a href="/wiki/Limette" title="Limette">Limette</a> ou citron doux, le fruit des <a class="mw-redirect mw-disambig" href="/wiki/Limettier_doux" title="Limettier doux">limettiers doux</a>, <i><a href="/wiki/Citrus_limetta" title="Citrus limetta">Citrus limetta</a></i> et <i>Citrus limettioides</i>.</li></ul>
+<h3><span id="R.C3.A9f.C3.A9rences_taxinomiques"></span><span class="mw-headline" id="Références_taxinomiques">Références taxinomiques</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Citrus_limettioides&amp;veaction=edit&amp;section=4" title="Modifier la section : Références taxinomiques">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Citrus_limettioides&amp;action=edit&amp;section=4" title="Modifier la section : Références taxinomiques">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><span class="ouvrage" id="EFloras"><abbr class="abbr indicateur-langue" title="Langue : anglais">(en)</abbr> Référence <a class="external text" href="http://www.efloras.org/flora_page.aspx?flora_id=5" rel="nofollow">Flora of Pakistan</a> : <a class="external text" href="http://www.efloras.org/florataxon.aspx?flora_id=5&amp;taxon_id=250071505" rel="nofollow"><i> Citrus limettioides </i> </a> </span></li>
+<li><span class="ouvrage" id="NCBI"><abbr class="abbr indicateur-langue" title="Langue : anglais">(en)</abbr> Référence <a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">NCBI</a> : <a class="external text" href="http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?lin=s&amp;p=has_linkout&amp;id=200542" rel="nofollow"><i>Citrus limettioides</i></a> </span></li>
+<li><span class="ouvrage" id="GRIN_espèce"><abbr class="abbr indicateur-langue" title="Langue : anglais">(en)</abbr> Référence <a class="external text" href="http://www.ars-grin.gov/" rel="nofollow">GRIN</a> : <a class="external text" href="https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?312652" rel="nofollow"><small>espèce </small><i>Citrus limettioides</i> Tanaka </a> </span></li></ul>
+<ul class="bandeau-portail" id="bandeau-portail"><li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><a href="/wiki/Portail:Botanique" title="Portail de la botanique"><img alt="Portail de la botanique" class="noviewer" data-file-height="599" data-file-width="640" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Icone_botanique01.png/26px-Icone_botanique01.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Icone_botanique01.png/38px-Icone_botanique01.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Icone_botanique01.png/51px-Icone_botanique01.png 2x" width="26"/></a></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:Botanique" title="Portail:Botanique">Portail de la botanique</a></span> </span></li> </ul>
+<!-- 
+NewPP limit report
+Parsed by mw1319
+Cached time: 20190224041135
+Cache expiry: 2073600
+Dynamic content: false
+CPU time usage: 0.264 seconds
+Real time usage: 0.357 seconds
+Preprocessor visited node count: 3541/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 22880/2097152 bytes
+Template argument size: 6935/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1540/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.072/10.000 seconds
+Lua memory usage: 2.19 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  305.819      1 -total
+ 21.12%   64.602      1 Modèle:Taxobox_début
+ 18.89%   57.780     16 Modèle:Taxobox
+ 18.11%   55.388      1 Modèle:Portail
+ 17.60%   53.830     16 Modèle:Infobox_V3/Tableau_Ligne_mixte
+ 15.14%   46.286      1 Modèle:EFloras
+ 12.09%   36.974      3 Modèle:En
+ 11.43%   34.953      3 Modèle:Indication_de_langue
+  8.61%   26.336      1 Modèle:Taxoboxoutils_premier_parent
+  8.56%   26.184      1 Modèle:Autres_projets
+-->
+<!-- Saved in parser cache with key frwiki:pcache:idhash:5402052-0!canonical and timestamp 20190224041135 and revision id 150932175
+ -->
+</div>
